@@ -33,7 +33,7 @@ The insights drawn from the RFM analysis and subsequent clustering can be used t
 ### RFM Analysis Visualization
 This plot, the RFM Analysis, provides a detailed view of customer segments based on Recency, Frequency, and Monetary classes. It employs a matrix format to show the concentration of customers across different segments, represented by the size of dots, which correlates to the number of customers in each segment.
 
-![RFM Analysis](Images/RFM analysis.png)
+![RFM Analysis](Images/RFM_analysis.png)
 
 - **X-axis (Recency Class):** Categorizes customers based on the recency of their last purchase with labels from 'Very Recent' to 'Historical'.
 - **Y-axis (Frequency Class):** Ranges from 'Rare' to 'Frequent', indicating how often these customers purchase.
